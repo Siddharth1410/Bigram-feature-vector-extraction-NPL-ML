@@ -21,6 +21,7 @@ feature_vector(“do or do not”) = "8292:1 8302:1 8303:1 25711:2 28271:1 28448
 
 ## Sample Output
 
+![bigram](https://user-images.githubusercontent.com/28666943/83131064-2257ba00-a094-11ea-9a20-5b892b611d88.JPG)
 
 
 
