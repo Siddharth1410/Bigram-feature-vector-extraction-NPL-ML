@@ -14,8 +14,13 @@ Extracting Bigram dictionary from a natural language and then transforming it in
 ## Test Cases
 
 feature_vector("hahahaha") = "24936:3 26721:4"
+
 feature_vector(“banana”) = "24942:2 25185:1 28257:2"
+
 feature_vector(“do or do not”) = "8292:1 8302:1 8303:1 25711:2 28271:1 28448:2 28530:1 28532:1 29216:1"
+
+## Sample Output
+
 
 
 
